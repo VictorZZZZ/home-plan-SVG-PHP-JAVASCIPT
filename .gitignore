@@ -1,0 +1,5 @@
+client_secret.json
+event.log
+json_cache.json
+vendor/*
+files/*
